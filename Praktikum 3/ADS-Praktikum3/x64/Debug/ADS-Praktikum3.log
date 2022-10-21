@@ -1,0 +1,7 @@
+﻿  Tree.cpp
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 3\ADS-Praktikum3\Tree.cpp(30,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 3\ADS-Praktikum3\Tree.cpp(158,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 3\ADS-Praktikum3\Tree.cpp(194,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 3\ADS-Praktikum3\Tree.cpp(254,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 3\ADS-Praktikum3\Tree.cpp(426): warning C4715: 'Tree::proofRBCriterion': not all control paths return a value
+  ADS-Praktikum3.vcxproj -> C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 3\x64\Debug\ADS-Praktikum3.exe
