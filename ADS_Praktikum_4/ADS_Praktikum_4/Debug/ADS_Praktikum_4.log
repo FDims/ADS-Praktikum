@@ -1,0 +1,33 @@
+﻿  main.cpp
+  sorting.cpp
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(48,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(60,4): error C2181: illegal else without matching if
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(64,11): error C2065: 'pivot': undeclared identifier
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(65,5): error C2143: syntax error: missing ';' before '}'
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(78,7): error C2601: 'Merge': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(112,7): error C2601: 'MergeSort': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(122,7): error C2601: 'natMerge': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(155,7): error C2601: 'natMergeSort': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(187,7): error C2601: 'heapify': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(204,29): error C2601: 'leftChild': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(208,7): error C2601: 'HeapSort': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(222,7): error C2601: 'ShellSort_2n': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(240,7): error C2601: 'ShellSort_3n': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(262,51): error C2601: 'randomizeVector': local function definitions are illegal
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(56): message : this line contains a '{' which has not yet been matched
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(159,21): warning C4018: '<=': signed/unsigned mismatch
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(211,4): error C3861: 'heapify': identifier not found
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(215,4): error C3861: 'heapify': identifier not found
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(224,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Informatik FH Aachen\2. Semester\Algorithmen und Datenstruktur\Praktikum\Praktikum 4\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(5): fatal error C1075: '{': no matching token found
+  Generating Code...

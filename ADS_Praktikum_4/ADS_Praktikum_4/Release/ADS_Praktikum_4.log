@@ -1,0 +1,11 @@
+﻿  sorting.cpp
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(48,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(161,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\ADS_Praktikum_4\ADS_Praktikum_4\sorting.cpp(226,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  98 of 3742 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ADS_Praktikum_4.vcxproj -> C:\Users\fachr\Documents\Informatik\Semester 2\ADS\ADS_Praktikum_4\Release\ADS_Praktikum_4.exe
