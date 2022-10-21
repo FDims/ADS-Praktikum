@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\Graphsearch.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\Graphsearch.h(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\Graphsearch.h(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\Graphsearch.h(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\main.cpp(110,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\main.cpp(118,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\main.cpp(139,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\main.cpp(147,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\ADS-Praktikum5\main.cpp(196,23): warning C4018: '<': signed/unsigned mismatch
+  ADS-Praktikum5.vcxproj -> C:\Users\fachr\Documents\Informatik\Semester 2\ADS\Praktikum 5\ADS-Praktikum5\Debug\ADS-Praktikum5.exe
